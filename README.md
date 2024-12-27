@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/purnimacodes/purnimacodes/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Purnima Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
